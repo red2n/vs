@@ -1,2 +1,4 @@
 # vs
-My default VS code settings
+Font 
+[FiraCode
+](https://github.com/tonsky/FiraCode/wiki/Installing#windows)
