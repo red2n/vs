@@ -30,7 +30,7 @@
     "editor.minimap.showSlider": "always",
     "editor.minimap.size": "fill",
     "editor.mouseWheelZoom": true,
-    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.multiCursorModifier": "alt",
     "editor.overviewRulerBorder": false,
     "editor.renderWhitespace": "none",
     "editor.scrollbar.horizontal": "hidden",
