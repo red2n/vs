@@ -30,7 +30,6 @@
     },
     "redhat.telemetry.enabled": true,
     "maven.excludedFolders": [
-
         "**/.*",
         "**/node_modules",
         "**/target",
@@ -62,12 +61,13 @@
     "editor.scrollbar.vertical": "hidden",
     "editor.overviewRulerBorder": false,
     "workbench.startupEditor": "none",
-    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.enableStickyScroll": true,
     "workbench.tree.renderIndentGuides": "none",
-    "workbench.tree.indent": 8,
+    "workbench.tree.indent": 10,
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "git.blame.editorDecoration.enabled": false,
+    "material-icon-theme.hidesExplorerArrows": true,
     "git.blame.editorDecoration.template": "★_${authorName}_★",
     "git.blame.statusBarItem.template": "👲 ${authorName} 📆 ${authorDate}",
     "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
@@ -80,5 +80,6 @@
     "window.restoreFullscreen": true,
     "window.commandCenter": false,
     "window.title": "🔴 ${rootName}",
-    "chat.agent.maxRequests": 1000
+    "chat.agent.maxRequests": 1000,
+    "editor.lightbulb.enabled": "off"
 }
