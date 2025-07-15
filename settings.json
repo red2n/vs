@@ -67,7 +67,7 @@
     "workbench.activityBar.location": "bottom",
     "workbench.colorTheme": "GitHub Dark Dimmed",
     "workbench.commandPalette.preserveInput": true,
-    "workbench.editor.editorActionsLocation": "titleBar",
+    "workbench.editor.editorActionsLocation": "default",
     "window.customTitleBarVisibility": "windowed",
     "workbench.editor.showTabs": "single",
     "workbench.editor.tabSizing": "shrink",
