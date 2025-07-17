@@ -76,5 +76,8 @@
     "workbench.startupEditor": "none",
     "workbench.tree.enableStickyScroll": true,
     "workbench.tree.indent": 10,
-    "workbench.tree.renderIndentGuides": "none"
+    "workbench.tree.renderIndentGuides": "none",
+    "search.searchView.semanticSearchBehavior": "auto",
+    "search.searchView.keywordSuggestions": true,
+    "github.copilot.chat.codesearch.enabled": true
 }
